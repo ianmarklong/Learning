@@ -1,2 +1,2 @@
 # Learning
-#This is just a collection of my code as I learn 
+#This is just a collection of code typed out in follow along tutorials
